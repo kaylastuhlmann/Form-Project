@@ -1,2 +1,2 @@
 # Form-Project
-Making a form for users to submit personal/contact info with HTML
+Making a form for users to submit info with HTML
