@@ -1,0 +1,59 @@
+body  {
+  background-color: lightblue;	
+}
+
+*  {
+  font-family: verdana;
+}
+
+h1  {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  style=font-size:150%;
+}
+
+.center	{
+  text-align: center;
+}
+
+fieldset  {
+  background-color: floralwhite;
+  margin: auto;
+  max-width: 50%
+}
+
+legend  {
+  background-color: floralwhite;
+  font-weight: bold;
+}
+
+.margin {
+  margin-left: 25%;
+}
+
+input[type=text], input[type=date], input[type=email], input[type=tel]  {
+  padding: 1% 1%;
+  box-sizing: border-box;
+  border-radius: 4px;
+  }
+
+label  {
+  padding: 1% 1%;
+  
+}
+
+input[type=submit], input[type=reset]  {
+  background-color: mediumslateblue;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 8px 8px;
+}
+
+#address  {
+  width: 50%
+}
+#zip  {
+  width: 20%
+}
