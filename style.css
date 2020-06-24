@@ -32,6 +32,11 @@ legend  {
   margin-left: 25%;
 }
 
+.error {
+  color:red;
+  font-style: italic;
+}
+
 input[type=text], input[type=date], input[type=email], input[type=tel]  {
   padding: 1% 1%;
   box-sizing: border-box;
